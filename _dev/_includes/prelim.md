@@ -8,7 +8,9 @@
 {% assign info = site.prelim | where: "path", filepath | first %}
 {% if info %}
 
+{% if info.link %}
 {{ info.content }}
+{% endif %}
 
 {% else %}
 

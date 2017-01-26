@@ -1,5 +1,3 @@
-# generic-course-jekyll
-My generic course template, using the new Jekyll approach
+# csc282-jekyll
+My CSC 282 course, using Jekyll for development.
 
-See the `dev` folder for all of the interesting stuff (instructions
-and more).

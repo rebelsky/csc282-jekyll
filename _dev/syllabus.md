@@ -8,93 +8,80 @@ Syllabus
 Welcome to {{ site.courseid }}! The official course description for this
 class is:
 
-> Description
+> The most successful software designers master a variety of languages, algorithms, and software design methodologies. In this course, you will examine the Unix approach to software design. You will ground that examination, in part, by developing programs that deepen your understanding of advanced techniques of the C programming language. Includes laboratory work.
 
-In other words, 
+In other words, we will help you think in C and Unix/GNU Linux.
 
 Learning Goals
 --------------
 
 Our major objectives for this course include:
 
-  - Something
-  - Something else
+  - Improving your overall software design skills
+  - Enhancing your understanding of the C model of programming
+  - Making you a more facile *nix user
 
 Important Notices
 -----------------
 
- - Computers have no common sense or compassion. They are complex, and sometimes they do things we don't expect. When things go wrong, don't blame yourself. Ask your instructor, your mentor, or a tutor for help.
- - I am moving to a new site development system this semester.  Expect things to be wonky for awhile.
- - As always, I am overcommitted.  I apologize in advance.
+  - As is typical, I am over-booked this semester.  I apologize.
+  - I am in the process of writing a series of essays on these subjects.
+    I will likely ask you to read them.
+  - I'm using new site development tools.  That means some things will
+    be a bit wonky on the site.  Let me know what you find that's not
+    in appropriate shape.
 
 Accommodations and adjustments
 ------------------------------
 
 Please read [my policy on accommodations and adjustments]({{ site.baseurl }}/handouts/accommodations) and [my statement on accessiblity]({{ site.baseurl }}/handouts/accessibility).
 
-Textbooks / references
-----------------------
-
 Grading
 -------
 
-My goal is for everyone taking this course to be able to demonstrate
-familiarity, fluency, and excellence with the course concepts. I would be
-very happy if you all met the goals above and received "A"s. The following
-weighting of individual activities will provide a basis for evaluation.
+This course is offered for one credit and is graded as S/D/F.  College
+guidelines dictate that one-credit courses rquire about three hours
+per week.  All students who take the course are expected to
 
-<dl class="dl-horizontal">
-  <dt>Attendance</dt>
-  <dd>Penalty only</dd>
-  
-  <dt>Participation</dt>
-  <dd>5%</dd>
-  
-  <dt>Labs</dt>
-  <dd>10%</dd>
-  
-  <dt>Assignments</dt>
-  <dd>15%</dd>
-  
-  <dt>Project</dt>
-  <dd>10%</dd>
-  
-  <dt>Quizzes</dt>
-  <dd>10%</dd>
-  
-  <dt>Exams</dt>
-  <dd>40%</dd>
-  
-  <dt>Best</dt>
-  <dd>10% <i>(best of homework, quizzes, or exams)</i></dd>
-</dl>
+* attend at least eleven of the thirteen class meetings;
+* do all of the assigned readings (about 30 minutes per week);
+* spend an appropriate amount of time on each homework assignment (about
+  90 minutes per week); and
+* participate actively in class.
 
-Some work may be graded by someone other than the instructor. However, any questions or concerns about grading should only be directed to the instructor.
+Students who meet these criteria will earn a grade of S.  Students who
+do not will likely earn a lower grade.
 
-The grading scale for this course will be:
+Textbooks and Other Readings
+----------------------------
 
-<dl class="dl-horizontal">
-  <dt>A</dt> <dd>94&ndash;100%</dd>
-  <dt>A-</dt><dd>90&ndash;93%</dd>
-  <dt>B+</dt><dd>87&ndash;89%</dd>
-  <dt>B</dt> <dd>84&ndash;87%</dd>
-  <dt>B-</dt><dd>80&ndash;83%</dd>
-  <dt>C+</dt><dd>77&ndash;79%</dd>
-  <dt>C</dt> <dd>74&ndash;77%</dd>
-  <dt>D</dt> <dd>60&ndash;69%</dd>
-  <dt>F</dt> <dd>0&ndash;60%</dd>
-</dl>
+Mecklenburg, Robert (2004).  _Managing Projects with GNU Make_, Third
+Edition. Sebastapol, CA: O'Reilly and Associates. Also available online
+at <http://oreilly.com/catalog/make3/book/index.csp>.
 
-You may note that there are some gaps between ranges.  I reserve the right to make decisions about which direction to "round" values in those gaps. I also reserve the right to adjust this scale during the semester. You will be notified of any changes, and the scale will not change in the final two weeks of the course. You may ask me for your current grade in the class at any point; I will happily give you my best estimate based on the current scale and graded work so far, but *these estimates are not guarantees of a specific final grade*.
+Raymond, Eric S. (2003). _The Art of UNIX
+Programming_. Addison-Wesley, Professional. Also available
+online at <http://www.catb.org/esr/writings/taoup/html/>.
+
+Rebelsky, Samuel A. (2017).  _Don't Embarrass Me; Don't
+Embarrass Yourself: Thoughts on Thinking in C and *nix_.
+An e-book (or something similar) in progress available at
+<http://www.cs.grinnell.edu/~rebelsky/musings/index-cnix>.
+
+Additional Readings
+-------------------
+
+*Here are some other things you might find useful.*
+
+Gancarz, Mike.  1994. _The Unix Philosophy_.  Digital Press.
+
+Kernighan, Brian W. &amp; Ritchie, Dennis, M. (1988). _The C Programming
+Language, 2nd Edition: ANSI C_. Upper Saddle River, NJ: Prentice-Hall.
 
 Attendance
 ----------
 
 Your classmates and partners depend on your contributions to learn new material and complete the required work for this course. *Don't let them down!* You are expected to arrive on time and actively participate in every class.
-
-Because your participation is so important, I will not grant excused absences except in exceptional circumstances. I will deduct 1% from your final grade for each absence and 0.5% for each time you are late to class. However, each student is allotted a 2% "penalty buffer," so you may miss two classes or arrive late four times with no impact on your final grade.  This policy is intended to give you the flexibility to deal with brief illnesses or personal issues that require you to miss class.
-
-If you need to miss more than two class periods for an exceptional reason (e.g. to attend an academic conference, deal with a family emergency, or due to long-term illness) please talk to me as soon as possible and we will make an alternate arrangement.
 
 If your are sick, *please do not come to class.* Stay in your room, rest, and seek medical care as needed. [Student Health and Counciling Services (SHACS)](http://www.grinnell.edu/about/offices-services/student-health) offers health and mental health services to students.
 
@@ -112,10 +99,13 @@ Participating in class involves:
  - staying on task during lab exercises, and
  - working effectively with your partner(s)
 
-Students who regularly meet these criteria can expect to earn an A- for their participation grade. I will reward students who regularly provide significant insights or guide discussion in productive ways with a higher participation score. Students who fail to participate regularly (e.g., demonstrating a lack of preparation or involvement during lab exercises) or who participate in counterproductive ways (e.g., by dominating the conversation, making inappropriate comments, or getting off-task) can expect to earn a lower score.
-
 Academic Honesty
 ----------------
 
 Please read [my policies on academic honesty]({{ site.baseurl }}/handouts/academic-honesty) and [the CS department's academic honesty policy](http://www.cs.grinnell.edu/academic-honesty-policy).  I expect you to sign and return the latter.
 
+Citations
+---------
+
+Much of the site appearance is due to Charlie Curtsinger (and the underlying
+tools he uses).

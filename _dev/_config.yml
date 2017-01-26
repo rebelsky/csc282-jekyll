@@ -1,8 +1,8 @@
 # Site settings
-title: GENERIC COURSE
-courseid: CSC 000.01
-baseurl: /~rebelsky/Courses/CSC000/2017S
-url: http://www.cs.grinnell.edu/~rebelsky/Courses/CSC000/2017S
+title: Thinking in C and Unix
+courseid: CSC 282.01
+baseurl: /~rebelsky/Courses/CSC282/2017S
+url: http://www.cs.grinnell.edu/~rebelsky/Courses/CSC282/2017S
 
 # Collections of things
 collections:
