@@ -3,6 +3,7 @@ title: Eboard 01  Introduction
 number: 01
 section: eboards
 held: 2017-01-26
+current: true
 ---
 CSC 282.01, Class 01:  Introduction
 ===================================
