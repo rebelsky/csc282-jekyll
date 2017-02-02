@@ -14,11 +14,14 @@
   abbrev: tools
   summary: We start to expore some of the tools that Unix programmers use
   read: Raymond 1
+    - Detour - A coding challenge
+    - Exploring solutions to simple tasks
+    - Buffers
 
 - topic: The Bash shell - a refresher
   abbrev: bash
   summary: We explore some key aspects of our primary shell
-  read: tbd
+  read: Forthcoming
 
 - topic: A C program ecosystem
   abbrev: cpp
